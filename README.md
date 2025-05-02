@@ -14,7 +14,7 @@ I transform ideas into **high-performance web applications** with clean architec
 - React/Next.js (State management, Performance tuning, React Native)
 - Seamless Laravel integration via Inertia.js
 
-🌟 **Let's build something amazing**: [Написать мне](mailto:your.email@example.com)
+🌟 **Let's build something amazing**: [write me](https://t.me/Linsaym397)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Lion-programmer)
