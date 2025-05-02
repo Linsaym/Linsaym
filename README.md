@@ -5,7 +5,7 @@
 I transform ideas into **high-performance web applications** with clean architecture and cutting-edge tech. My superpowers:
 
 🛠️ **Backend Mastery**:
-- Laravel (REST/GraphQL APIs, Redis queues, Microservices)
+- Laravel (REST/GraphQL APIs, Redis queues, Microservices, TG bots)
 - Database optimization (40%+ query speed boost in past projects)
 - DevOps (Docker, CI/CD, AWS deployments)
 
