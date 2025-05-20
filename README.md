@@ -5,7 +5,7 @@
 I transform ideas into **high-performance web applications** with clean architecture and cutting-edge tech. My superpowers:
 
 🛠️ **Backend Mastery**:
-- Laravel (REST/GraphQL APIs, Redis queues, Microservices, TG bots)
+- Laravel (REST/GraphQL APIs, Redis queues, RabbitMQ/Kafka message brokers, Microservices, TG bots)
 - Database optimization (40%+ query speed boost in past projects)
 - DevOps (Docker, CI/CD, AWS deployments)
 
@@ -37,6 +37,8 @@ I transform ideas into **high-performance web applications** with clean architec
 ### ⚙️ Backend:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ### 🗃️ Databases:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
