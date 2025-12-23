@@ -1,10 +1,8 @@
 # 💫 About Me:
-🔥 **Senior Fullstack Developer (Laravel + Vue.js/React)** | **Performance Optimizer** | **Tech Solutions Architect**
-
-🚀 **Why choose me?**  
-I transform ideas into **high-performance web applications** with clean architecture and cutting-edge tech. My superpowers:
+🔥 **Senior Fullstack Developer (PHP, JS, TS, Go)** | **Performance Optimizer** | **Tech Solutions Architect**
 
 🛠️ **Backend Mastery**:
+- High-load systems on Go (microservices, APIs, real-time services)
 - Laravel (REST/GraphQL APIs, Redis queues, RabbitMQ/Kafka message brokers, Microservices, TG bots)
 - Database optimization (40%+ query speed boost in past projects)
 - DevOps (Docker, CI/CD, AWS deployments)
