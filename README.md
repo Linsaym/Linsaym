@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Fullstack Developer focused on building high-load systems and modern web applications.
+Fullstack Developer focused on building high-load systems and modern web applications.
 
 **Core Stack:**
 - **Backend:** Go, PHP (Laravel), Node.js. Microservices, message brokers (RabbitMQ/Kafka).
