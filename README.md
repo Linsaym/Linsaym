@@ -1,24 +1,19 @@
 # 💫 About Me:
-🔥 **Senior Fullstack Developer (PHP, JS, TS, Go)** | **Performance Optimizer** | **Tech Solutions Architect**
+Senior Fullstack Developer focused on building high-load systems and modern web applications.
 
-🛠️ **Backend Mastery**:
-- High-load systems on Go (microservices, APIs, real-time services)
-- Laravel (REST/GraphQL APIs, Redis queues, RabbitMQ/Kafka message brokers, Microservices, TG bots)
-- Database optimization (40%+ query speed boost in past projects)
-- DevOps (Docker, CI/CD, AWS deployments)
+**Core Stack:**
+- **Backend:** Go, PHP (Laravel), Node.js. Microservices, message brokers (RabbitMQ/Kafka).
+- **Frontend:** Vue.js (Pinia, Nuxt), React (Next.js, React Native), TypeScript.
+- **Databases:** PostgreSQL, MySQL, ClickHouse, Redis, MongoDB, Elasticsearch, Neo4j.
+- **Infrastructure:** Docker, AWS, CI/CD (GitHub Actions).
 
-💎 **Frontend Excellence**:
-- Vue 3 (Pinia, Composition API, SSR with Nuxt)
-- React/Next.js (State management, Performance tuning, React Native)
-- Seamless Laravel integration via Inertia.js
+Open to interesting challenges and collaborations.
 
-🌟 **Let's build something amazing**: [write me](https://t.me/Linsaym397)
-
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Lion-programmer)
-[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF6600?style=for-the-badge&logo=headhunter&logoColor=white)](https://spb.hh.ru/resume/bac84cfbff09e5a8520039ed1f376163793839)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Linsaym397)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/linsaym)
+## 📫 Connect with me:
+- **Telegram:** [@Linsaym397](https://t.me/Linsaym397)
+- **Resume (HH):** [View](https://spb.hh.ru/resume/bac84cfbff09e5a8520039ed1f376163793839)
+- **YouTube:** [Lion-programmer](https://youtube.com/@Lion-programmer)
+- **VK:** [linsaym](https://vk.com/linsaym)
 
 # 💻 Tech Stack:
 ### 🧰 Languages:
