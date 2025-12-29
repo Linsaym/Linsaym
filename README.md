@@ -2,7 +2,7 @@
 Fullstack Developer focused on building high-load systems and modern web applications.
 
 **Core Stack:**
-- **Backend:** Go, PHP (Laravel), Node.js. Microservices, message brokers (RabbitMQ/Kafka).
+- **Backend:** Go, PHP (Laravel), Microservices, message brokers (RabbitMQ/Kafka).
 - **Frontend:** Vue.js (Pinia, Nuxt), React (Next.js, React Native), TypeScript.
 - **Databases:** PostgreSQL, MySQL, ClickHouse, Redis, MongoDB, Elasticsearch, Neo4j.
 - **Infrastructure:** Docker, AWS, CI/CD (GitHub Actions).
@@ -29,7 +29,8 @@ Open to interesting challenges and collaborations.
 
 ### ⚙️ Backend:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/fiber-8B89CC?style=for-the-badge&logo=go&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
